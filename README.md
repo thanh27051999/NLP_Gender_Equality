@@ -1,3 +1,5 @@
+NLP Gender Equality
+
 This analysis aims to explore public discourse surrounding gender equality by applying a range of natural language processing (NLP)
 techniques to Twitter data set of SDG 5 – Gender Equality to uncover the most prominent themes, trends, emotional tones and key
 concerns voiced by users. The techniques used and discussed in this report include N-grams analysis for detecting commonly
